@@ -1,0 +1,15 @@
+{
+  "name": "js-implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node --experimental-modules index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirill Muratov",
+  "license": "ISC",
+  "dependencies": {
+    "seedrandom": "^3.0.1"
+  }
+}
