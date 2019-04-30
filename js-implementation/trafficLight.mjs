@@ -1,7 +1,6 @@
 import {time} from './time.mjs';
 import {exponential} from './generator.mjs';
 
-
 class TrafficLight {
   constructor() {
     // delay before green for people
@@ -164,4 +163,3 @@ class TrafficLight {
 }
 
 export default TrafficLight;
-
